@@ -1,0 +1,8 @@
+
+```txt
+numpy>=1.26
+opencv-python>=4.10.0.0
+mediapipe==0.10.14
+mlx-whisper>=0.1.0
+#Install from Github and run bash get_models.sh
+git+https://github.com/apple/ml-fastvlm.git@main
