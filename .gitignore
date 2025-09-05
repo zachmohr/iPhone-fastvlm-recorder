@@ -234,3 +234,4 @@ iphone_record_*.txt
 # Models (don’t push heavy checkpoints)
 ml-fastvlm/
 checkpoints/
+Miniforge*.sh
