@@ -1,0 +1,12 @@
+name: mp
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=1.26
+  - opencv
+  - pip
+  - pip:
+      - mediapipe==0.10.14
+      - mlx-whisper>=0.1.0
+      - git+https://github.com/apple/ml-fastvlm.git@main
